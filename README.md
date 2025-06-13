@@ -63,3 +63,37 @@ kafka-console-consumer.sh \
 Vemos que este comando nos muestra por consola las predicciones publicadas en el tópico.
 
 ### Spark
+
+Para verificar el correcto funcionamiento de Spark, accedemos a la interfaz web disponible en ```http://localhost:9080```. 
+
+![Spark](https://github.com/user-attachments/assets/60482721-93b7-49e6-9464-9a26f8c399e9)
+
+
+En esta interfaz podemos confirmar que:
+- El **Spark Master** está activo (```Status: ALIVE```) y corriendo.
+- Hay dos nodos **Workers** listos para ejecutar tareas distribuidas.
+- Vemos también la aplicación de predicción de vuelos en ejecución.
+
+
+### Nifi
+
+Accedemos a la interfaz de NiFi a través de la dirección ```http://localhost:8443/nifi``` y configuramos el siguiente flujo de trabajo que conecta dos componentes:
+- **ConsumerKafka_2_0:** Un procesador que escucha el tópico ```flight-delay-classification-response``` de Kafka. Es decir, extrae los mensajes generados por Spark con las predicciones.
+- **PutFile:** Este segundo procesador almacena los mensajes consumidos.
+
+![Nifi](https://github.com/user-attachments/assets/d2b1d125-f734-45dd-9a8d-42eb578b95c2)
+
+
+### HDFS
+
+Finalmente accedemos a la interfaz de HDFS desde ```localhost://9870``` y navegamos hasta ```/user/root/flight_delay_ml_response```. Nos debería aparecer algo como esto:
+
+![HDFS](https://github.com/user-attachments/assets/145246b2-f697-424c-9f22-3a0d2fa3c19d)
+
+Podemos ver que las predicciones se almacenan en el formato ```Parquet```.
+
+La alternativa para ver estos archivos por consola sería utilizar el siguiente comando desde la terminal:
+
+```bash
+hdfs dfs -ls
+```
