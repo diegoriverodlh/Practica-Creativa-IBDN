@@ -1,0 +1,42 @@
+[2025-06-09T12:23:41.005+0200] {processor.py:157} INFO - Started process (PID=77227) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:23:41.008+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-06-09T12:23:41.010+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:23:41.009+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:23:41.045+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:23:41.078+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:23:41.077+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-09T12:23:41.111+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:23:41.110+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-06-09T10:20:00+00:00, run_after=2025-06-09T10:22:00+00:00
+[2025-06-09T12:23:41.165+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.170 seconds
+[2025-06-09T12:24:48.647+0200] {processor.py:157} INFO - Started process (PID=77714) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:24:48.648+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-06-09T12:24:48.649+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:24:48.649+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:24:48.671+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:24:48.694+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:24:48.693+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-09T12:24:48.742+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:24:48.742+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-06-09T10:22:00+00:00, run_after=2025-06-09T10:24:00+00:00
+[2025-06-09T12:24:48.802+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.160 seconds
+[2025-06-09T12:25:43.035+0200] {processor.py:157} INFO - Started process (PID=78100) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:25:43.038+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-06-09T12:25:43.040+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:25:43.039+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:25:43.067+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:25:43.114+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:25:43.114+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-09T12:25:43.150+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:25:43.150+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-06-09T10:22:00+00:00, run_after=2025-06-09T10:24:00+00:00
+[2025-06-09T12:25:43.207+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.181 seconds
+[2025-06-09T12:26:33.176+0200] {processor.py:157} INFO - Started process (PID=78477) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:26:33.176+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-06-09T12:26:33.177+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:26:33.177+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:26:33.186+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:26:33.224+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:26:33.224+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-09T12:26:33.255+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:26:33.255+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-06-09T10:24:00+00:00, run_after=2025-06-09T10:26:00+00:00
+[2025-06-09T12:26:33.322+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.150 seconds
+[2025-06-09T12:27:22.290+0200] {processor.py:157} INFO - Started process (PID=78792) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:27:22.292+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-06-09T12:27:22.295+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:27:22.294+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:27:22.321+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:27:22.337+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:27:22.337+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-09T12:27:22.370+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:27:22.370+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-06-09T10:24:00+00:00, run_after=2025-06-09T10:26:00+00:00
+[2025-06-09T12:27:22.424+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.144 seconds
+[2025-06-09T12:41:36.774+0200] {processor.py:157} INFO - Started process (PID=90501) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:41:36.775+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2025-06-09T12:41:36.776+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:41:36.775+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:41:36.796+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py
+[2025-06-09T12:41:36.847+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:41:36.847+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-09T12:41:36.898+0200] {logging_mixin.py:154} INFO - [2025-06-09T12:41:36.898+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sla_dag to 2025-06-09T10:38:00+00:00, run_after=2025-06-09T10:40:00+00:00
+[2025-06-09T12:41:36.969+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sla_dag.py took 0.199 seconds

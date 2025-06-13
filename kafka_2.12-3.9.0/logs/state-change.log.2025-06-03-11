@@ -1,0 +1,6 @@
+[2025-06-03 11:34:47,945] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-06-03 11:34:47,948] INFO [Broker id=1] Creating new partition flight-delay-ml-request-0 with topic id pXv0BAwlTtKB-Nd7QyyObg. (state.change.logger)
+[2025-06-03 11:34:47,969] INFO [Broker id=1] Leader flight-delay-ml-request-0 with topic id Some(pXv0BAwlTtKB-Nd7QyyObg) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)
+[2025-06-03 11:55:54,972] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2025-06-03 11:55:54,974] INFO [Broker id=1] Creating new partition flight-delay-classification-response-0 with topic id XxABhBwOQ0SR-fvLAYZ9GQ. (state.change.logger)
+[2025-06-03 11:55:54,984] INFO [Broker id=1] Leader flight-delay-classification-response-0 with topic id Some(XxABhBwOQ0SR-fvLAYZ9GQ) starts at leader epoch 0 from offset 0 with partition epoch 0, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader None and previous leader epoch was -1. (state.change.logger)

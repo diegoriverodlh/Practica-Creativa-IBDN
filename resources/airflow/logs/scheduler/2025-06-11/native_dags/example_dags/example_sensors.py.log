@@ -1,0 +1,70 @@
+[2025-06-11T11:28:51.823+0200] {processor.py:157} INFO - Started process (PID=68867) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:28:51.824+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:28:51.826+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:28:51.825+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:28:51.840+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:28:51.872+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:28:51.872+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:28:51.886+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:28:51.886+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:28:51.940+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.126 seconds
+[2025-06-11T11:29:46.507+0200] {processor.py:157} INFO - Started process (PID=69247) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:29:46.507+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:29:46.508+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:46.508+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:29:46.518+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:29:46.548+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:46.547+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:29:46.562+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:46.562+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:29:46.619+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.115 seconds
+[2025-06-11T11:30:41.484+0200] {processor.py:157} INFO - Started process (PID=69584) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:30:41.486+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:30:41.488+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:41.487+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:30:41.503+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:30:41.534+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:41.534+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:30:41.550+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:41.549+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:30:41.614+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.136 seconds
+[2025-06-11T11:31:36.451+0200] {processor.py:157} INFO - Started process (PID=69928) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:31:36.453+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:31:36.455+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:36.454+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:31:36.477+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:31:36.508+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:36.508+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:31:36.523+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:36.523+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:31:36.580+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.139 seconds
+[2025-06-11T11:32:22.191+0200] {processor.py:157} INFO - Started process (PID=70264) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:32:22.192+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:32:22.192+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:22.192+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:32:22.204+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:32:22.238+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:22.238+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:32:22.253+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:22.252+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:32:22.307+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.120 seconds
+[2025-06-11T11:33:13.699+0200] {processor.py:157} INFO - Started process (PID=70582) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:33:13.700+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:33:13.701+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:13.700+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:33:13.715+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:33:13.746+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:13.745+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:33:13.761+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:13.760+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:33:13.813+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.118 seconds
+[2025-06-11T11:34:08.517+0200] {processor.py:157} INFO - Started process (PID=70958) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:34:08.518+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:34:08.519+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:08.518+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:34:08.530+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:34:08.565+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:08.564+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:34:08.587+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:08.587+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:34:08.653+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.140 seconds
+[2025-06-11T11:34:56.853+0200] {processor.py:157} INFO - Started process (PID=71298) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:34:56.856+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:34:56.858+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:56.857+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:34:56.885+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:34:56.921+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:56.921+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:34:56.937+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:56.937+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:34:56.996+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.152 seconds
+[2025-06-11T11:35:50.330+0200] {processor.py:157} INFO - Started process (PID=71673) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:35:50.331+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:35:50.332+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:50.332+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:35:50.349+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:35:50.384+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:50.384+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:35:50.398+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:50.398+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:35:50.498+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.173 seconds
+[2025-06-11T11:36:43.354+0200] {processor.py:157} INFO - Started process (PID=71998) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:36:43.356+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py for tasks to queue
+[2025-06-11T11:36:43.357+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:43.356+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:36:43.370+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_sensors']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py
+[2025-06-11T11:36:43.400+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:43.400+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:36:43.415+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:43.415+0200] {dag.py:3722} INFO - Setting next_dagrun for example_sensors to None, run_after=None
+[2025-06-11T11:36:43.469+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_sensors.py took 0.122 seconds

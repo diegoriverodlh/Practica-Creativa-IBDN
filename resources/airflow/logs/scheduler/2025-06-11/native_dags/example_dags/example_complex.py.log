@@ -1,0 +1,56 @@
+[2025-06-11T11:29:08.059+0200] {processor.py:157} INFO - Started process (PID=68946) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:29:08.060+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:29:08.061+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:08.060+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:29:08.074+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:29:08.107+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:08.106+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:29:08.121+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:08.121+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:29:08.182+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.127 seconds
+[2025-06-11T11:30:03.784+0200] {processor.py:157} INFO - Started process (PID=69331) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:30:03.786+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:30:03.787+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:03.786+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:30:03.800+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:30:03.833+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:03.833+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:30:03.847+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:03.847+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:30:03.902+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.123 seconds
+[2025-06-11T11:31:00.123+0200] {processor.py:157} INFO - Started process (PID=69713) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:31:00.126+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:31:00.128+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:00.127+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:31:00.155+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:31:00.197+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:00.197+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:31:00.212+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:00.212+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:31:00.267+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.154 seconds
+[2025-06-11T11:32:38.220+0200] {processor.py:157} INFO - Started process (PID=70367) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:32:38.222+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:32:38.224+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:38.223+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:32:38.238+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:32:38.274+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:38.274+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:32:38.288+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:38.288+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:32:38.345+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.134 seconds
+[2025-06-11T11:33:31.588+0200] {processor.py:157} INFO - Started process (PID=70711) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:33:31.589+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:33:31.590+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:31.590+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:33:31.603+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:33:31.636+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:31.636+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:33:31.650+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:31.650+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:33:31.701+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.118 seconds
+[2025-06-11T11:34:43.936+0200] {processor.py:157} INFO - Started process (PID=71198) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:34:43.936+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:34:43.937+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:43.937+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:34:43.949+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:34:43.988+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:43.988+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:34:44.005+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:44.004+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:34:44.063+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.130 seconds
+[2025-06-11T11:35:40.942+0200] {processor.py:157} INFO - Started process (PID=71580) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:35:40.945+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:35:40.947+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:40.946+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:35:40.966+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:35:41.000+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:41.000+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:35:41.014+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:41.014+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:35:41.064+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.130 seconds
+[2025-06-11T11:36:56.052+0200] {processor.py:157} INFO - Started process (PID=72104) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:36:56.054+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-06-11T11:36:56.056+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:56.055+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:36:56.092+0200] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py
+[2025-06-11T11:36:56.184+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:56.184+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:36:56.204+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:56.203+0200] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-06-11T11:36:56.266+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/example_complex.py took 0.224 seconds

@@ -1,0 +1,4 @@
+[error] /home/diego.rivero/practica_creativa/flight_prediction/src/main/scala/es/upm/dit/ging/predictor/MakePrediction.scala:95:49: ';' expected but '.' found.
+[error]     val flightFlattenedDf2 = flightNeste  mlflow.set_tracking_uri("http://mlflow:5000")
+[error]                                                 ^
+[error] one error found

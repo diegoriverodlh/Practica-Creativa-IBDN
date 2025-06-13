@@ -1,0 +1,4 @@
+[2025-06-03 12:56:13,522] INFO [Broker id=1] Transitioning 2 partition(s) to local followers. (state.change.logger)
+[2025-06-03 12:56:13,535] INFO [Broker id=1] Follower flight-delay-classification-response-0 starts at leader epoch 1 from offset 0 with partition epoch 1 and high watermark 0. Current leader is -1. Previous leader Some(-1) and previous leader epoch was 1. (state.change.logger)
+[2025-06-03 12:56:13,536] INFO [Broker id=1] Follower flight-delay-ml-request-0 starts at leader epoch 1 from offset 1 with partition epoch 1 and high watermark 1. Current leader is -1. Previous leader Some(-1) and previous leader epoch was 1. (state.change.logger)
+[2025-06-03 12:56:13,544] INFO [Broker id=1] Stopped fetchers as part of controlled shutdown for 2 partitions (state.change.logger)

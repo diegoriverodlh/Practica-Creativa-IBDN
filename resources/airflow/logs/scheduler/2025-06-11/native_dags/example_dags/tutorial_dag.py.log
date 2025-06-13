@@ -1,0 +1,77 @@
+[2025-06-11T11:28:31.698+0200] {processor.py:157} INFO - Started process (PID=68691) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:28:31.700+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:28:31.701+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:28:31.700+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:28:31.715+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:28:31.799+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:28:31.798+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:28:31.817+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:28:31.817+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:28:31.902+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.212 seconds
+[2025-06-11T11:29:26.398+0200] {processor.py:157} INFO - Started process (PID=69083) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:29:26.400+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:29:26.402+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:26.401+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:29:26.412+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:29:26.441+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:26.440+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:29:26.457+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:29:26.456+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:29:26.514+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.122 seconds
+[2025-06-11T11:30:19.714+0200] {processor.py:157} INFO - Started process (PID=69452) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:30:19.716+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:30:19.718+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:19.717+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:30:19.730+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:30:19.781+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:19.781+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:30:19.811+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:30:19.811+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:30:19.904+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.196 seconds
+[2025-06-11T11:31:11.498+0200] {processor.py:157} INFO - Started process (PID=69772) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:31:11.499+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:31:11.500+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:11.499+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:31:11.505+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:31:11.532+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:11.532+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:31:11.549+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:31:11.549+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:31:11.603+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.108 seconds
+[2025-06-11T11:32:03.598+0200] {processor.py:157} INFO - Started process (PID=70127) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:32:03.601+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:32:03.603+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:03.602+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:32:03.626+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:32:03.665+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:03.665+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:32:03.680+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:03.680+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:32:03.737+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.148 seconds
+[2025-06-11T11:32:55.664+0200] {processor.py:157} INFO - Started process (PID=70495) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:32:55.665+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:32:55.666+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:55.666+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:32:55.675+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:32:55.707+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:55.707+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:32:55.726+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:32:55.725+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:32:55.827+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.168 seconds
+[2025-06-11T11:33:42.963+0200] {processor.py:157} INFO - Started process (PID=70798) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:33:42.963+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:33:42.964+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:42.964+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:33:42.969+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:33:42.993+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:42.992+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:33:43.006+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:33:43.006+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:33:43.060+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.100 seconds
+[2025-06-11T11:34:31.694+0200] {processor.py:157} INFO - Started process (PID=71110) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:34:31.694+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:34:31.695+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:31.695+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:34:31.701+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:34:31.728+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:31.728+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:34:31.743+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:34:31.743+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:34:31.801+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.111 seconds
+[2025-06-11T11:35:23.395+0200] {processor.py:157} INFO - Started process (PID=71468) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:35:23.398+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:35:23.400+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:23.399+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:35:23.413+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:35:23.444+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:23.444+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:35:23.458+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:35:23.458+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:35:23.509+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.124 seconds
+[2025-06-11T11:36:16.845+0200] {processor.py:157} INFO - Started process (PID=71805) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:36:16.846+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:36:16.847+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:16.847+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:36:16.852+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:36:16.877+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:16.877+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:36:16.892+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:36:16.892+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:36:16.941+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.098 seconds
+[2025-06-11T11:37:08.091+0200] {processor.py:157} INFO - Started process (PID=72162) to work on /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:37:08.094+0200] {processor.py:829} INFO - Processing file /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2025-06-11T11:37:08.096+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:37:08.095+0200] {dagbag.py:536} INFO - Filling up the DagBag from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:37:08.110+0200] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial_dag']) retrieved from /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py
+[2025-06-11T11:37:08.140+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:37:08.140+0200] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-06-11T11:37:08.156+0200] {logging_mixin.py:154} INFO - [2025-06-11T11:37:08.155+0200] {dag.py:3722} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2025-06-11T11:37:08.211+0200] {processor.py:179} INFO - Processing /home/diego.rivero/practica_creativa/env/lib/python3.11/site-packages/airflow/example_dags/tutorial_dag.py took 0.129 seconds
